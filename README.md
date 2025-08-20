@@ -1,16 +1,27 @@
-## Hi there 👋
+# Bem vindo(a) ao meu Perfil.
+Sou estudante de Análise e Desenvolvimento de Sistemas, com grande facilidade para resolver problemas e constante interesse por novas tecnologias e inovações. Atualmente, estou focada em me desenvolver profissionalmente como desenvolvedora backend
 
-<!--
-**darkkombats/darkkombats** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Conecte-se comigo
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/darkkombats)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mylenna-geovana-574788170/)
+[![Instagram](https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/myh_dk/)
 
-Here are some ideas to get you started:
+## Habilidades
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+![Vscode](https://img.shields.io/badge/Vscode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+## GitHub Status
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=darkkombats&theme=transparent&bg_color=0000&border_color=000C&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=darkkombats&hide=javascript,css,scss,html&theme=tokyonight)
+
+<div align="center" style="display: inline_block"><br>
+    <img align="center" alt="Gu-Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
+    <img align="center" alt="Gu-Java"  height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
+    <img align="center" alt="Gu-MySQL"  height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg">
+
+</div>
