@@ -1,5 +1,5 @@
 # Bem vindo(a) ao meu Perfil.
-Sou estudante de Análise e Desenvolvimento de Sistemas, com grande facilidade para resolver problemas e constante interesse por novas tecnologias e inovações. Atualmente, estou focada em me desenvolver profissionalmente como desenvolvedora backend
+Sou estudante de Análise e Desenvolvimento de Sistemas, com grande facilidade para resolver problemas e constante interesse por novas tecnologias e inovações. Atualmente, estou focada em me desenvolver profissionalmente como desenvolvedora backend.
 
 ## Conecte-se comigo
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/darkkombats)
