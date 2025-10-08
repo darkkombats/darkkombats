@@ -18,10 +18,3 @@ Sou estudante de Análise e Desenvolvimento de Sistemas, com grande facilidade p
 ## GitHub Status
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=darkkombats&theme=transparent&bg_color=0000&border_color=000C&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=darkkombats&hide=javascript,css,scss,html&theme=tokyonight)
-
-<div align="center" style="display: inline_block"><br>
-    <img align="center" alt="Gu-Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
-    <img align="center" alt="Gu-Java"  height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
-    <img align="center" alt="Gu-MySQL"  height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg">
-
-</div>
