@@ -17,4 +17,4 @@ Sou estudante de Análise e Desenvolvimento de Sistemas, com grande facilidade p
 
 ## GitHub Status
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mylennaqueiroz&hide=contribs,prs)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mylennaqueiroz&layout=compact)
